@@ -1,7 +1,7 @@
 # NLP-Sentimental-Analysis-iwht-LSTM
 
 ## What will we do?  
-The goal of this project is to proof hypothesis based in data, in our case, we will use Twitter to fetch some real-time data.  
+The goal of this project is to proof hypothesis based on data, in our case, we will use Twitter to fetch some real-time data.  
 We will choose two campaigns, one of them will show negative emotions in the languague of the tweets, the other one will show positive ones. Here we will use Manchester united and FC Barcelona as our campaign.  
 
 
